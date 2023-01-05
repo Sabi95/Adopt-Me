@@ -16,10 +16,10 @@ const App = () => {
     }),
     React.createElement(Pet, {
       name: "Oden",
-      animal: "Possum",
+      animal: "Sugarglider",
       breed: "Sugarglider",
     }),
-    React.createElement(Pet, { name: "Doink", animal: "Cat", breed: "Mix" }),
+    React.createElement(Pet, { name: "Candy", animal: "Cat", breed: "Mix" }),
   ]);
 };
 
