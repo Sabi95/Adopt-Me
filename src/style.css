@@ -9,6 +9,9 @@ body {
   background-color: #81a69b;
   background-image: url(http://pets-images.dev-apis.com/pets/wallpaperB.jpg);
   margin: 0;
+}
+
+body p {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -198,13 +201,14 @@ header {
 #modal a,
 .details button {
   background-color: #ad343e;
-  padding: 5px 25px;
+  padding: 8px 24px;
   color: white;
   font-size: 18px;
-  border: #333 1px solid;
-  border-radius: 5px;
+  border: #8b242d 1px solid;
+  box-shadow: rgba(100, 100, 111, 0.3) 0px 7px 29px 0px;
+  border-radius: 4px;
   display: block;
-  margin: 0 auto;
+  margin: 16px auto;
   cursor: pointer;
 }
 
