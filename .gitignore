@@ -7,7 +7,7 @@
 # .netlify
 node_modules
 .parcel-cache/
-dist/
+# dist/
 .env
 .DS_Store
 coverage/
