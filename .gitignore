@@ -3,5 +3,5 @@ node_modules/
 coverage/
 .vscode/
 dist/
-# Local Netlify folder
+Local Netlify folder
 .netlify
