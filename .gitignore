@@ -1,7 +1,14 @@
-node_modules/
+# node_modules/
+# .env
+# coverage/
+# .vscode/
+# dist/
+# Local Netlify folder
+# .netlify
+node_modules
+.parcel-cache/
+dist/
 .env
+.DS_Store
 coverage/
 .vscode/
-dist/
-Local Netlify folder
-.netlify
