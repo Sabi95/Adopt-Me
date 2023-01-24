@@ -4,7 +4,7 @@ import { useQuery } from "@tanstack/react-query";
 import AdoptedPetContext from "./AdoptedPetContext";
 import  ErrorBoundary from "./ErrorBoundary";
 import Carousel from "./Carousel";
-import  fetchPet  from "./fetchPet";
+import  fetchPet  from "../Fetch/fetchPet";
 import Modal from "./Modal"
 
 const Details = () => {
