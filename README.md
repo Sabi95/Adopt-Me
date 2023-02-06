@@ -1,4 +1,4 @@
-# 😸 Adopt-Me (Work-in-Progress)
+# 😸 Adopt-Me
 
 A helpful little web application that let's you find and adopt pets in North America!
 
